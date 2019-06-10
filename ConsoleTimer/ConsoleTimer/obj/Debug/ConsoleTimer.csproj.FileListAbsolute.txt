@@ -1,0 +1,7 @@
+D:\UnityAss\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\ConsoleTimer.csprojAssemblyReference.cache
+D:\UnityAss\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\ConsoleTimer.csproj.CoreCompileInputs.cache
+D:\UnityAss\PETimer\ConsoleTimer\ConsoleTimer\bin\Debug\ConsoleTimer.exe.config
+D:\UnityAss\PETimer\ConsoleTimer\ConsoleTimer\bin\Debug\ConsoleTimer.exe
+D:\UnityAss\PETimer\ConsoleTimer\ConsoleTimer\bin\Debug\ConsoleTimer.pdb
+D:\UnityAss\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\ConsoleTimer.exe
+D:\UnityAss\PETimer\ConsoleTimer\ConsoleTimer\obj\Debug\ConsoleTimer.pdb
